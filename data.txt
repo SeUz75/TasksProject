@@ -1,0 +1,10 @@
+Homework,Complete math homework,5,true
+Shopping,Buy groceries for the week,3,false
+Workout,Go to the gym for an hour,2,false
+Reading,Read 50 pages of a novel,4,false
+Meeting,Attend project meeting,1,false
+Cleaning,Do the laundry and clean the house,6,false
+Gardening,Plant new flowers in the garden,7,false
+Cooking,Prepare dinner for the family,8,false
+Emails,Reply to work emails,9,false
+Study,Prepare for the upcoming exam,10,false
